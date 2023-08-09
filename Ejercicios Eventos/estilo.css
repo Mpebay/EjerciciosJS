@@ -1,0 +1,50 @@
+#cuadrado{
+    width: 15rem;
+    height: 15rem;
+    background-color: gray;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+#cuadrado2{
+    width: 15rem;
+    height: 15rem;
+    background-color: gray;
+    
+
+}
+
+#parametros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1rem;
+    flex-direction: column;
+
+}
+#cambio{
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+
+}
+
+#cambio2{
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+}
+#gral{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
